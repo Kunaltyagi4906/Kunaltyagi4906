@@ -1,9 +1,10 @@
-<font face="Montserrat" color="#3498db">Kunal Tyagi</font>
-<font face="Lato" color="#2ecc71">Data Scientist & Developer | BTech Student</font>
+<font face="Roboto" color="#0080ff">Kunal Tyagi</font>
 
-<font face="Open Sans" color="#666">About Me</font>
+<font face="Lato" color="#34a85a">Data Scientist & Developer | BTech Student</font>
 
-I'm Kunal Tyagi, a passionate Data Scientist and Developer with expertise in Machine Learning, Data Analysis, and Web Development. With a strong foundation in Computer Science, I've developed innovative solutions leveraging Python, OpenCV, MediaPipe, Flask, HTML/CSS, MongoDB, and C++.
+About Me
+
+👋 I'm Kunal Tyagi, a passionate Data Scientist and Developer with expertise in Machine Learning, Data Analysis, and Web Development.
 
 <font face="Montserrat" color="#e74c3c">Technical Skills</font>
 
@@ -15,11 +16,11 @@ I'm Kunal Tyagi, a passionate Data Scientist and Developer with expertise in Mac
 - Operating Systems: Windows, Linux
 - AI/ML Frameworks: TensorFlow, Keras, PyTorch
 
-<font face="Montserrat" color="#2ecc71">Projects</font>
+Projects
 
 Eye Blink Detection
 
-- Utilized OpenCV and MediaPipe to detect eye blinks in real-time
+- Utilized OpenCV and MediaPipe to detect eye blinks in real-time 🕒
 - Implemented facial landmark detection and blink tracking
 - Achieved accurate blink detection with minimal false positives
 
@@ -35,7 +36,7 @@ Delhi Metro Data Analysis & Optimization
 - Implemented data visualization using Matplotlib and Seaborn
 - Identified key bottlenecks and proposed efficient solutions
 
-<font face="Montserrat" color="#e74c3c">Education & Certifications</font>
+<font face="Montserrat" color="#2ecc71">Education & Certifications</font>
 
 - BTech in Computer Science, [University Name]
 - Certified Data Scientist, IBM
@@ -43,7 +44,7 @@ Delhi Metro Data Analysis & Optimization
 - Infosys Data Science Certification
 - Certificate in AI, DeepLearning
 
-<font face="Montserrat" color="#2ecc71">Experience</font>
+<font face="Montserrat" color="#e74c3c">Experience</font>
 
 - Internship in AI, [Company Name] ([Internship Dates])
 - [Key Responsibilities and Achievements]
@@ -65,9 +66,8 @@ Delhi Metro Data Analysis & Optimization
 
 <font face="Montserrat" color="#e74c3c">Quotes</font>
 
-- "Data is the new oil."
-- "Code is like humor – when you have to explain it, it’s bad."
-
+- "Data is the new oil." 💡
+- "Code is like humor – when you have to explain it, it’s bad." 😂
 
 
 <!---
