@@ -6,7 +6,7 @@ About Me
 
 👋 I'm Kunal Tyagi, a passionate Data Scientist and Developer with expertise in Machine Learning, Data Analysis, and Web Development.
 
-<font face="Montserrat" color="#e74c3c">Technical Skills</font>
+Technical Skills
 
 - Programming Languages: Python, C++, JavaScript
 - Data Science: Machine Learning, Data Analysis, Data Visualization
@@ -36,27 +36,27 @@ Delhi Metro Data Analysis & Optimization
 - Implemented data visualization using Matplotlib and Seaborn
 - Identified key bottlenecks and proposed efficient solutions
 
-<font face="Montserrat" color="#2ecc71">Education & Certifications</font>
+Education & Certifications
 
-- BTech in Computer Science, [University Name]
+- BTech in Computer Science, [Coer University]
 - Certified Data Scientist, IBM
 - Tata Crucible Contest Certification
 - Infosys Data Science Certification
 - Certificate in AI, DeepLearning
 
-<font face="Montserrat" color="#e74c3c">Experience</font>
+Experience
 
 - Internship in AI, [Company Name] ([Internship Dates])
 - [Key Responsibilities and Achievements]
 
-<font face="Montserrat" color="#3498db">Connect</font>
+Connect
 
 - LinkedIn: (link unavailable)
 - Twitter: (link unavailable)
 - Portfolio: [your portfolio URL]
 - Email: [your email address]
 
-<font face="Lato" color="#2ecc71">Interests</font>
+Interests
 
 - Artificial Intelligence
 - Data Science
@@ -64,11 +64,10 @@ Delhi Metro Data Analysis & Optimization
 - Computer Vision
 - Machine Learning
 
-<font face="Montserrat" color="#e74c3c">Quotes</font>
+Quotes
 
-- "Data is the new oil." 💡
-- "Code is like humor – when you have to explain it, it’s bad." 😂
-
+- "Data is the new oil."
+- "Code is like humor – when you have to explain it, it’s bad."
 
 <!---
 Kunaltyagi4906/Kunaltyagi4906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
