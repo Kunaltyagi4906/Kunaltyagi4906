@@ -1,5 +1,9 @@
 
+### <font color="#3498db">Kunal Tyagi</font>
+#### <font face="Arial" size="4">Data Scientist & Developer</font>
 
+Expertise: <font color="#2ecc71">Data Science</font> | <font color="#e74c3c">Machine Learning</font> | Web Development
+...
 
 Kunal Tyagi
 ----------------
