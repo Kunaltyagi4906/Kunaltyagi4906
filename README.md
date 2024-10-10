@@ -59,20 +59,7 @@
 
 
 
-Replace:
 
-- [University Name]
-- [Company Name]
-- [Internship Dates]
-- [Key Responsibilities and Achievements]
-- [your portfolio URL]
-- [your email address]
-
-with your actual information.
-
-Background color: #212121
-Text color: #949494
-Highlight color: #66d9ef
 <!---
 Kunaltyagi4906/Kunaltyagi4906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
