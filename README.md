@@ -1,71 +1,61 @@
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hi, I'm Kunal Tyagi! 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2366d9ef&size=30&center=true&vCenter=true&width=550&lines=Hey,+I'm+Kunal+Tyagi!;Data+Scientist+|+Developer;AI+Enthusiast+|+Problem+Solver;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
-<h3 align="center">🚀 Data Scientist & Developer | BTech Student</h3>
-
----
-
-### 💡 **About Me**
-- 👨‍💻 Passionate **Data Scientist & Web Developer**
-- 🧠 Love working with **AI, ML, and Deep Learning**
-- 🎯 Exploring **Computer Vision & NLP**
-- 🌍 Open to collaborations on **Data Science Projects**
-- 🎓 BTech in **Computer Science**
-- 💬 Ask me about **AI, Python, ML, and Flask!**
-- 📫 **Contact:** [kunaltyagi496@gmail.com]
-
----
-
-## 🚀 **Tech Stack & Tools**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="600" />
 </p>
 
 ---
 
-## 🔥 **GitHub Stats & Contributions**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunaltyagi4906&show_icons=true&theme=radical" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunaltyagi4906&theme=radical" width="50%"/>
-</p>
+## 📌 **About Me**
+🚀 **Data Scientist | Developer | AI Enthusiast**  
+💡 Passionate about **Machine Learning, AI, and Web Development**  
+📊 Love solving **Data Science & Competitive Programming** problems  
 
+---
+
+## ⚡ **Technical Skills**
+> **Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+> **Databases & Cloud**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 🏆 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunaltyagi4906&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunaltyagi4906&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunaltyagi4906&theme=radical" height="180px"/>
 </p>
 
 ---
 
-## 🎬 **TechLover**
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+## 🌟 **Projects**
+### 🟢 **Eye Blink Detection**
+- 🎯 **Tech:** OpenCV, MediaPipe  
+- 👀 **Detects eye blinks in real-time**  
+- 🚀 **Accurate detection with minimal false positives**
 
----
+### 🔥 **Movie Recommendation System**
+- 🎭 **Tech:** Collaborative Filtering, Flask  
+- 🎬 **Personalized movie recommendations**  
+- 📈 **Improved accuracy with iterative refinement**
 
-## 📌 **Projects**
-### 🚀 **Eye Blink Detection**
-- 🖥️ **Tech Used:** OpenCV, MediaPipe, Python  
-- 🔹 **Real-time blink detection** using **facial landmarks**  
-- 🎯 **Accurate blink tracking** with minimal false positives  
-
-### 🎞️ **Movie Recommendation System**
-- 📊 Built a **recommendation engine** using **collaborative filtering**  
-- 🔍 Integrated a **web interface** for user inputs  
-- 🔥 Achieved **high recommendation accuracy** through iterative refinements  
-
-### 🚇 **Delhi Metro Data Analysis & Optimization**
-- 🛤️ **Analyzed traffic patterns** & optimized **route planning**  
-- 📊 **Data visualization** with **Matplotlib & Seaborn**  
-- 💡 **Proposed key solutions** to reduce **bottlenecks**  
+### 🚆 **Delhi Metro Data Analysis**
+- 📊 **Tech:** Pandas, Matplotlib, Seaborn  
+- 🔍 **Analyzed passenger traffic patterns**  
+- 🔧 **Optimized route planning & reduced congestion**
 
 ---
 
@@ -91,26 +81,14 @@
   </a>
 </p>
 
+---
 
+## 🚀 **Fun Fact**
+🎮 When I'm not coding, you can find me **gaming, watching sci-fi movies, or exploring AI innovations!**  
+📖 Favorite Quote: **"Code is like humor – when you have to explain it, it’s bad."** 😆  
 
 ---
 
-## 📈 **Profile Views**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kunaltyagi4906&color=blue"/>
-</p>
-
----
-
-## 🎯 **Quote to Live By**
-> "Data is the new oil."  
-> "Code is like humor – when you have to explain it, it’s bad."
-
----
-
-## 🔥 **Fun Fact**
-Did you know that the first AI-powered chatbot was created in **1966**? It was called **ELIZA** and used simple pattern matching! 🤖
-
----
-
-🌟 **If you like my profile, drop a ⭐ on my repositories!**  
+## 🎯 **Let's Connect & Collaborate!**
+🚀 I'm open to new projects, collaborations, and AI innovations. **Feel free to reach out!**  
+**Drop a ⭐ on my repos if you find them useful!**  
