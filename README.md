@@ -14,7 +14,7 @@
 - 🌍 Open to collaborations on **Data Science Projects**
 - 🎓 BTech in **Computer Science**
 - 💬 Ask me about **AI, Python, ML, and Flask!**
-- 📫 **Contact:** [your email address]
+- 📫 **Contact:** [kunaltyagi496@gmail.com]
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🎬 **Cool Animations & GIFs**
+## 🎬 **TechLover**
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
@@ -71,7 +71,7 @@
 
 ## 🌐 **Connect with Me**
 <p align="center">
-  <a href="www.linkedin.com/in/kunal-tyagi-9b37182b0" target="_blank">
+  <a href="https://www.linkedin.com/in/kunal-tyagi-9b37182b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kunal-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
@@ -80,7 +80,11 @@
   <a href="https://kunaltyagi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Kunal-green?style=for-the-badge&logo=google-chrome"/>
   </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-Kunal-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
+
 
 ---
 
