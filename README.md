@@ -1,4 +1,4 @@
-# <font face="Montserrat" color="#66d9ef">Kunal Tyagi</font>
+### <font face="Montserrat" color="#66d9ef">Kunal Tyagi</font>
 ### <font face="Lato" color="#949494">Data Scientist & Developer | BTech Student</font>
 
 #### About Me
