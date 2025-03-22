@@ -64,3 +64,10 @@
 Kunaltyagi4906/Kunaltyagi4906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunaltyagi4906&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Kunaltyagi4906&color=blue)
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-Intermediate-orange?logo=cplusplus)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+
