@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2366d9ef&size=30&center=true&vCenter=true&width=550&lines=Hey,+I'm+Kunal+Tyagi!;Data+Scientist+|+Developer;AI+Enthusiast+|+Problem+Solver;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=36BCF7&size=32&center=true&vCenter=true&width=650&height=60&lines=Hey,+I'm+Kunal+Tyagi!;🚀+Data+Scientist+|+AI+Engineer;💡+Problem+Solver+|+Tech+Enthusiast;Welcome+to+My+GitHub+Profile!" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="600" />
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600" />
 </p>
 
 ---
