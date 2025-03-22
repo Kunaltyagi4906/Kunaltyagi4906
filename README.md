@@ -71,7 +71,7 @@
 
 ## 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/kunal-tyagi-9b37182b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kunal-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
