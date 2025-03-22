@@ -1,73 +1,105 @@
-### <font face="Montserrat" color="#66d9ef">Kunal Tyagi</font>
-### <font face="Lato" color="#949494">Data Scientist & Developer | BTech Student</font>
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hi, I'm Kunal Tyagi! 
+</h1>
 
-#### About Me
-👋 I'm Kunal Tyagi, a passionate Data Scientist and Developer with expertise in Machine Learning, Data Analysis, and Web Development.
+<h3 align="center">🚀 Data Scientist & Developer | BTech Student</h3>
 
-#### **Technical Skills**
-- Programming Languages: `Python`, `C++`, `JavaScript`
-- Data Science: `Machine Learning`, `Data Analysis`, `Data Visualization`
-- Web Development: `Flask`, `HTML/CSS`, `MongoDB`
-- Computer Vision: `OpenCV`, `MediaPipe`
-- Databases: `MongoDB`, `MySQL`
-- Operating Systems: `Windows`, `Linux`
-- AI/ML Frameworks: `TensorFlow`, `Keras`, `PyTorch`
+---
 
-#### **Projects**
-##### Eye Blink Detection
-- Utilized OpenCV and MediaPipe to detect eye blinks in real-time 
-- Implemented facial landmark detection and blink tracking
-- Achieved accurate blink detection with minimal false positives
+### 💡 **About Me**
+- 👨‍💻 Passionate **Data Scientist & Web Developer**
+- 🧠 Love working with **AI, ML, and Deep Learning**
+- 🎯 Exploring **Computer Vision & NLP**
+- 🌍 Open to collaborations on **Data Science Projects**
+- 🎓 BTech in **Computer Science**
+- 💬 Ask me about **AI, Python, ML, and Flask!**
+- 📫 **Contact:** [your email address]
 
-##### Movie Recommendation System
-- Developed a recommendation engine using collaborative filtering
-- Integrated with a web interface for user input and feedback
-- Improved recommendation accuracy through iterative model refinement
+---
 
-##### Delhi Metro Data Analysis & Optimization
-- Analyzed passenger traffic patterns and optimized route planning
-- Implemented data visualization using Matplotlib and Seaborn
-- Identified key bottlenecks and proposed efficient solutions
+## 🚀 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-#### **Education & Certifications**
-- BTech in Computer Science, [University Name]
-- Certified Data Scientist, IBM
-- Tata Crucible Contest Certification
-- Infosys Data Science Certification
-- Certificate in AI, DeepLearning
+---
 
-#### **Experience**
-- Internship in AI, [Company Name] ([Internship Dates])
-- [Key Responsibilities and Achievements]
+## 🔥 **GitHub Stats & Contributions**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunaltyagi4906&show_icons=true&theme=radical" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunaltyagi4906&theme=radical" width="50%"/>
+</p>
 
-#### **Connect**
-- LinkedIn: [(link unavailable)]((link unavailable))
-- Twitter: [(link unavailable)]((link unavailable))
-- Portfolio: [your portfolio URL]
-- Email: [your email address]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunaltyagi4906&layout=compact&theme=radical" width="45%"/>
+</p>
 
-#### **Interests**
-- Artificial Intelligence
-- Data Science
-- Web Development
-- Computer Vision
-- Machine Learning
+---
 
-#### **Quotes**
-- "Data is the new oil." 
-- "Code is like humor – when you have to explain it, it’s bad."
+## 🎬 **Cool Animations & GIFs**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
+---
 
+## 📌 **Projects**
+### 🚀 **Eye Blink Detection**
+- 🖥️ **Tech Used:** OpenCV, MediaPipe, Python  
+- 🔹 **Real-time blink detection** using **facial landmarks**  
+- 🎯 **Accurate blink tracking** with minimal false positives  
 
+### 🎞️ **Movie Recommendation System**
+- 📊 Built a **recommendation engine** using **collaborative filtering**  
+- 🔍 Integrated a **web interface** for user inputs  
+- 🔥 Achieved **high recommendation accuracy** through iterative refinements  
 
-<!---
-Kunaltyagi4906/Kunaltyagi4906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunaltyagi4906&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Kunaltyagi4906&color=blue)
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![C++](https://img.shields.io/badge/C++-Intermediate-orange?logo=cplusplus)
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+### 🚇 **Delhi Metro Data Analysis & Optimization**
+- 🛤️ **Analyzed traffic patterns** & optimized **route planning**  
+- 📊 **Data visualization** with **Matplotlib & Seaborn**  
+- 💡 **Proposed key solutions** to reduce **bottlenecks**  
 
+---
+
+## 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kunal-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Kunal-blue?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://kunaltyagi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Kunal-green?style=for-the-badge&logo=google-chrome"/>
+  </a>
+</p>
+
+---
+
+## 📈 **Profile Views**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kunaltyagi4906&color=blue"/>
+</p>
+
+---
+
+## 🎯 **Quote to Live By**
+> "Data is the new oil."  
+> "Code is like humor – when you have to explain it, it’s bad."
+
+---
+
+## 🔥 **Fun Fact**
+Did you know that the first AI-powered chatbot was created in **1966**? It was called **ELIZA** and used simple pattern matching! 🤖
+
+---
+
+🌟 **If you like my profile, drop a ⭐ on my repositories!**  
