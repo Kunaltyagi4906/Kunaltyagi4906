@@ -83,7 +83,14 @@
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-Kunal-red?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://leetcode.com/u/KunalTyagi20/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Kunal-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/kunaltyagf2u/?ref=header_profile" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Kunal-brightgreen?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
 </p>
+
 
 
 ---
