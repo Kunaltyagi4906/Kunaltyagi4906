@@ -41,21 +41,45 @@
 
 ---
 
-## 🌟 **Projects**
-### 🟢 **Eye Blink Detection**
+## 🌟 **Highlighted Projects**
+### 🧠 AI-Powered Legal Document Summarization & Risk Assessment
+- 📄 Built an end-to-end legal doc analyzer using **LLMs + RAG** with **GDPR/HIPAA compliance**.
+- ⚡ Integrated **FAISS** for lightning-fast retrieval, reducing review time by **40%**.
+- 🌐 Deployed on **Streamlit + Hugging Face**; served **1500+ users** in 3 months!
+
+### 🧴 Skin Disease Detection with EfficientNetB0
+- 📸 Achieved **92% accuracy** on 10k+ images using **EfficientNetB0 + TensorFlow/Keras**.
+- 🌐 Web interface built with **Flask** for real-time diagnosis from image uploads.
+
+### 🚇 Delhi Metro Network Analysis & Route Optimization
+- 🔍 Used **Graph Theory & NetworkX** to optimize metro routes.
+- 📉 Reduced avg travel time by **18%**, with beautiful **GeoPandas** visualizations.
+
+### 🟢 Eye Blink Detection
 - 🎯 **Tech:** OpenCV, MediaPipe  
-- 👀 **Detects eye blinks in real-time**  
-- 🚀 **Accurate detection with minimal false positives**
+- 👀 Real-time eye blink tracking with minimal false positives.
 
-### 🔥 **Movie Recommendation System**
-- 🎭 **Tech:** Collaborative Filtering, Flask  
-- 🎬 **Personalized movie recommendations**  
-- 📈 **Improved accuracy with iterative refinement**
+### 🔥 Movie Recommendation System
+- 🎬 Built with **Collaborative Filtering + Flask** backend.
+- 🔁 Iterative model refinement = better, more personal movie suggestions.
 
-### 🚆 **Delhi Metro Data Analysis**
-- 📊 **Tech:** Pandas, Matplotlib, Seaborn  
-- 🔍 **Analyzed passenger traffic patterns**  
-- 🔧 **Optimized route planning & reduced congestion**
+---
+
+## 💼 **Experience**
+### 🧠 AI/ML Intern – Infosys Springboard *(Jan 2025 – Mar 2025)*
+- Built LLM-powered legal doc AI with **FAISS** retrieval and **risk scoring** engine.
+- Deployed on **Streamlit + Hugging Face**, used by over **1500 users**.
+- Deep dived into **GDPR/HIPAA** to ensure compliance, reducing legal risk by 30%.
+
+---
+
+## 📜 **Certifications & Achievements**
+- 🥇 **Hackathon 2025 Winner – Spark 9.0**
+- 🧠 **Ideathon 1.0 Finalist – COER University**
+- 📜 **Deep Learning Specialization – DeepLearning.AI (Score: 96.25%)**
+- 🧠 **Python for Data Science & AI – IBM**
+- 📜 **Infosys Springboard Data Science + AI Certificate**
+- 🏁 Participated in **Tata Crucible Contest**
 
 ---
 
@@ -64,13 +88,10 @@
   <a href="https://www.linkedin.com/in/kunal-tyagi-9b37182b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kunal-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Kunal-blue?style=for-the-badge&logo=twitter"/>
-  </a>
-  <a href="https://kunaltyagi.vercel.app" target="_blank">
+  <a href="https://kunaltyagi4906.github.io/Portfolio-Website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Kunal-green?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:kunaltyag4906@gmail.com">
     <img src="https://img.shields.io/badge/Email-Kunal-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://leetcode.com/u/KunalTyagi20/" target="_blank">
@@ -84,11 +105,12 @@
 ---
 
 ## 🚀 **Fun Fact**
-🎮 When I'm not coding, you can find me **gaming, watching sci-fi movies, or exploring AI innovations!**  
-📖 Favorite Quote: **"Code is like humor – when you have to explain it, it’s bad."** 😆  
+🎮 When I’m not wrangling data or debugging deep nets, I’m vibing with sci-fi movies, intense gaming, and mind-blowing AI ideas.
+
+📖 Favorite Quote: _“Code is like humor – when you have to explain it, it’s bad.”_
 
 ---
 
-## 🎯 **Let's Connect & Collaborate!**
-🚀 I'm open to new projects, collaborations, and AI innovations. **Feel free to reach out!**  
-**Drop a ⭐ on my repos if you find them useful!**  
+## 🎯 **Let’s Collaborate!**
+If you're building something cool in **AI, ML, or Data Science** — let’s collab, let’s code, and let’s create the future.  
+**Drop a ⭐ if my repos helped you — and reach out for projects, ideas, or just geeky convos.** 🚀
