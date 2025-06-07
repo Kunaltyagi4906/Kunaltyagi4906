@@ -81,6 +81,16 @@
 
 -  📂 [GitHub Repo](https://github.com/Kunaltyagi4906/ML-Projects)
 
+### Personal Portfolio Website
+🖥️ Tech: HTML, CSS, JavaScript
+
+🎨 Designed a responsive and professional portfolio to showcase projects, skills, and achievements
+
+🌟 Features smooth navigation, GitHub stats, and external profile links
+
+🚀 Deployed using GitHub Pages for live access
+
+-  📂 [Access link](https://kunaltyagi4906.github.io/Portfolio-Website/)
 ---
 
 ## 💼 **Experience**
