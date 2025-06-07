@@ -70,6 +70,17 @@
 - 🧠 Helps secure systems by preventing **spoofing attacks**  
 -  📂 [GitHub Repo](https://github.com/Kunaltyagi4906/FingerPrint-liveness-Detection)
 
+-  ## 🔍 ML projects
+
+| Project                     | Description                                                                 | Tech Stack                              |
+|----------------------------|-----------------------------------------------------------------------------|-----------------------------------------|
+| ✉️ Spam Email Classifier    | NLP-based system to detect spam using **Naive Bayes + CountVectorizer**     | Python, scikit-learn, NLP               |
+| 🌸 Iris Flower Classification | Predicts flower species using **KNN + Decision Tree Classifiers**           | Python, scikit-learn, matplotlib        |
+| 📈 Stock Price Prediction   | Forecasts future stock prices with **Linear Regression**                    | Pandas, sklearn, seaborn                |
+| 🏠 House Price Prediction   | Predicts house prices using multiple features with **regression models**     | Pandas, scikit-learn, matplotlib        |
+
+-  📂 [GitHub Repo](https://github.com/Kunaltyagi4906/ML-Projects)
+
 ---
 
 ## 💼 **Experience**
