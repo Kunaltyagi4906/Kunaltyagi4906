@@ -59,9 +59,15 @@
 - 🎯 **Tech:** OpenCV, MediaPipe  
 - 👀 Real-time eye blink tracking with minimal false positives.
 
-### 🔥 Movie Recommendation System
-- 🎬 Built with **Collaborative Filtering + Flask** backend.
-- 🔁 Iterative model refinement = better, more personal movie suggestions.
+## 🌟 Highlighted Projects
+
+### 🧬 Fingerprint Liveness Detection using CNN
+- 🔒 **Tech:** Convolutional Neural Networks (CNN), OpenCV, TensorFlow  
+- 🔍 Detects whether a fingerprint is **real or spoofed** using biometric pattern analysis  
+- 🎯 Trained on fingerprint datasets with high accuracy in liveness prediction  
+- 🚀 Used **CNN architecture** for feature extraction & classification  
+- 🧠 Helps secure systems by preventing **spoofing attacks**  
+- 📂 [GitHub Repo](https://github.com/Kunaltyagi4906/FingerPrint-liveness-Detection)
 
 ---
 
