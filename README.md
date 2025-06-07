@@ -46,20 +46,21 @@
 - 📄 Built an end-to-end legal doc analyzer using **LLMs + RAG** with **GDPR/HIPAA compliance**.
 - ⚡ Integrated **FAISS** for lightning-fast retrieval, reducing review time by **40%**.
 - 🌐 Deployed on **Streamlit + Hugging Face**; served **1500+ users** in 3 months!
+- - 📂 [GitHub Repo](https://github.com/Kunaltyagi4906/Advanced-AI-Driven-Legal-Document-Summarization-and-Risk-Assessment)
 
 ### 🧴 Skin Disease Detection with EfficientNetB0
 - 📸 Achieved **92% accuracy** on 10k+ images using **EfficientNetB0 + TensorFlow/Keras**.
 - 🌐 Web interface built with **Flask** for real-time diagnosis from image uploads.
+- - 📂 [GitHub Repo](https://github.com/Kunaltyagi4906/SkinDiseaseDetection)
 
 ### 🚇 Delhi Metro Network Analysis & Route Optimization
 - 🔍 Used **Graph Theory & NetworkX** to optimize metro routes.
 - 📉 Reduced avg travel time by **18%**, with beautiful **GeoPandas** visualizations.
-
+- - 📂 [GitHub Repo](https://github.com/Kunaltyagi4906/SkinDiseaseDetection)
 ### 🟢 Eye Blink Detection
 - 🎯 **Tech:** OpenCV, MediaPipe  
 - 👀 Real-time eye blink tracking with minimal false positives.
-
-## 🌟 Highlighted Projects
+- - - 📂 [GitHub Repo](https://github.com/Kunaltyagi4906/Eye-Blink-Project-using-Open-CV)
 
 ### 🧬 Fingerprint Liveness Detection using CNN
 - 🔒 **Tech:** Convolutional Neural Networks (CNN), OpenCV, TensorFlow  
